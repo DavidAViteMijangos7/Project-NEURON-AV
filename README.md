@@ -2,36 +2,36 @@
 Development of a scale autonomous vehicle for campus navigation. Includes advanced mechanical design in SolidWorks (CSWA/CSWP standards), electronic architecture with NVIDIA Jetson Nano, and control systems based on ROS 2.
 # Campus Autonomous Navigator (CAN) 🏎️🤖
 
-### Proyecto de Ingeniería Mecatrónica: Vehículo Autónomo a Escala
+### Mechatronics Engineering Project: Scale Autonomous Vehicle
 
-Este proyecto consiste en el diseño, modelado y programación de un vehículo autónomo capaz de navegar en entornos peatonales (campus universitario). El enfoque principal es la integración de diseño mecánico de alta precisión con sistemas de percepción de Inteligencia Artificial.
+This project involves the design, modeling, and programming of an autonomous vehicle capable of navigating pedestrian environments (university campus). The primary focus is the integration of high-precision mechanical design with Artificial Intelligence perception systems.
 
 ---
 
-## 1. Diseño Mecánico (SolidWorks) 🛠️
-El chasis y los sistemas de dirección han sido desarrollados bajo estándares de certificación **CSWA/CSWP**, priorizando la intención de diseño y la optimización de manufactura (Impresión 3D y corte láser).
+## 1. Mechanical Design (SolidWorks) 🛠️
+The chassis and steering systems were developed following **CSWA/CSWP** certification standards, prioritizing design intent and manufacturing optimization (3D Printing and laser cutting).
 
-* **Diseño Paramétrico:** Uso de un *Master Sketch* para control global de dimensiones.
-* **Análisis de Masa:** Optimización del centro de gravedad para estabilidad en curvas.
-* **Configuraciones:** Modelos adaptables para neumáticos de exterior (Campus) y ruedas omnidireccionales (Interiores).
+* **Parametric Design:** Implementation of a *Master Sketch* for global dimensional control.
+* **Mass Analysis:** Optimization of the center of gravity to ensure stability during cornering.
+* **Configurations:** Adaptable models for outdoor tires (Campus) and omnidirectional wheels (Indoors).
 
-## 2. Arquitectura Electrónica y Percepción 🧠
-El sistema utiliza una arquitectura jerárquica para procesamiento en tiempo real:
-* **Cerebro:** NVIDIA Jetson Nano (Procesamiento de visión e IA).
-* **Percepción:** LiDAR 2D para mapeo SLAM y cámara para detección de carriles.
-* **Control de Motores:** ESP32/Arduino gestionando la odometría mediante encoders.
+## 2. Electronic Architecture and Perception 🧠
+The system utilizes a hierarchical architecture for real-time processing:
+* **Main Processor:** NVIDIA Jetson Nano (Vision processing and AI).
+* **Perception:** 2D LiDAR for SLAM mapping and a camera for lane detection.
+* **Motor Control:** ESP32/Arduino managing odometry via encoders.
 
 ## 3. Software 💻
 * **Stack:** ROS 2 (Humble), Python, OpenCV.
-* **Algoritmos:** Implementación de SLAM para creación de mapas y navegación autónoma mediante *Path Planning*.
+* **Algorithms:** SLAM implementation for map generation and autonomous navigation through *Path Planning*.
 
 ---
 
-## Estructura del Repositorio
-- `/mechanical`: Archivos CAD (.SLDASM, .STEP) y renders.
-- `/software`: Código fuente de navegación y control.
-- `/electronics`: Diagramas y lista de componentes (BOM).
+## Repository Structure
+- `/mechanical`: CAD Files (.SLDASM, .STEP) and renders.
+- `/software`: Navigation and control source code.
+- `/electronics`: Circuit diagrams and Bill of Materials (BOM).
 
-## Sobre el Autor
-**David Andre Vite Mijangos** Estudiante de Ingeniería Mecatrónica en Tecnológico de Monterrey.  
-*Intereses: Industria Automotriz, Aeroespacial y Consultoría.*
+## About the Author
+**David Andre Vite Mijangos** Mechatronics Engineering Student at Tecnológico de Monterrey.  
+*Interests: Automotive, Aerospace, and Consulting Industries.*
