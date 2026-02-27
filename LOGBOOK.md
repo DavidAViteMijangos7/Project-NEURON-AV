@@ -14,4 +14,5 @@ As I will be working almost everyday on this project, during my freetime and stu
 
 #### Next Steps
 For the next days I will be working on choosing the components, even though I have been working witth arduino, this proyect is far more complex than a simple arduino code, so I will research on my own with the use of internet, youtube and AI; with the objective to choose the best components for this proyect.
-  After this main research I will be working on my main car sketch in SolidWorks
+After this main research I will be working on my car's master sketch in SolidWorks.
+I will try to get a full first draft design of the car by the end of next week along with finishing my preparation for the CSWA certification.
