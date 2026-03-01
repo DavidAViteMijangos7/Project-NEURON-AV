@@ -25,3 +25,4 @@ During this couple day i have researched the components I will need for my proye
 - Finally to power the whole system I will use 3 LiPo 3S lithium batteries, providing almost 12V of power between the 3, this power will be distributed by a XT60 conector and a step-down for the Jetson.
   
 **All this components will be uploades in the /electronic file**
+**The volume measures and mass from each component will be noted in the /mechanics file where I will describe the start of the whole car first design**
