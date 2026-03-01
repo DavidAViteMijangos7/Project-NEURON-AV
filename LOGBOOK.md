@@ -23,4 +23,5 @@ During this couple day i have researched the components I will need for my proye
 - To control, decode and process the AI and executes the map/SLAM of the campus and autonomously control the car I need a powerful processor to run everything at the sam time, for this I will be using the NVIDIA Jetson Orin Nano wich has enough processing power for everything and is compatible with all the components.
 - For the car movement I will be using 4 JGB37-520 motors, 1 conncected to each of the wheels and all of them controlled by an ESP 32 connected to the Jetson Orin and passing through a L298N to control the power, also via WiFI/Bluetooth I can make a direct connection with the ESP32, or create a full connection wit the Jetson to be able to see the cameras too.
 - Finally to power the whole system I will use 3 LiPo 3S lithium batteries, providing almost 12V of power between the 3, this power will be distributed by a XT60 conector and a step-down for the Jetson.
+  
 **All this components will be uploades in the /electronic file**
