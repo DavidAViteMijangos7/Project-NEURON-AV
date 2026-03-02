@@ -10,7 +10,6 @@
 * **Hall Effect Encoders:** Sensors *integrated* into the motors to measure wheel rotation, allowing the system to calculate distance and speed.
 * **JGB37-520 Geared Motors (12V):** High-torque DC motors with metal gearboxes designed to handle the weight of the AV.
 * **L298N High-Current Motor Driver:** A H-bridge driver that regulates the power delivered to the 4-wheel drive system.
-* **80mm High-Traction Wheels:** Rubber tires designed for optimal grip on concrete and asphalt surfaces.
 * **3S LiPo Battery (11.1V / 5000mAh):** The main high-density power source for the system.
 * **5V/5A Buck Converter:** A step-down voltage regulator that ensures a stable power supply for the Jetson Orin Nano and the LiDAR.
 * **XT60 Connector & LiPo Alarm:** Safety and connectivity hardware used to monitor battery health and ensure secure power distribution.
