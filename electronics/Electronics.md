@@ -1,7 +1,7 @@
-#Electronics Components#
-##Here I will list, describe and explain the connections of all the components##
+#Electronics Components
+##Here I will list, describe and explain the connections of all the components
 
-###Components that will be used:###
+###Components that will be used:
 * NVIDIA Jetson Orin Nano: The primary AI computer used for running ROS 2, performing SLAM, and processing real-time computer vision.
 * **ESP32 DevKit V1:** The microcontroller that handles low-level tasks with the motors control, encoder reading, and Bluetooth/Wi-Fi connectivity.
 * **RPLidar A1 M8:** A 360° laser scanner used for obstacle detection and generating 2D maps of the campus environment.
