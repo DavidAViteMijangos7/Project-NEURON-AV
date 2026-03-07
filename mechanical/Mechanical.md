@@ -13,6 +13,6 @@
   * IMU sensor BN0055: 5 grams
   * Battery LiPo 3S 5000mAh: 450 grams
   * Screws, cables and extra components: around 250 grams
-  * Main structure: the full first designed structure will weight around 125 grams, using ABS PC material, which will be updated once the main structure is printed.
+  * Main structure: the full first designed structure will weight around 700 grams, using ABS PC material, which will be updated once the main structure is printed.
 * **The total weight spected for this proyect is of 2,370 grams. (To be updated on future advances)**
 ### Torque  Calculations for various scenarios
