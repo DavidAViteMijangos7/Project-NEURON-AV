@@ -27,3 +27,12 @@ During this couple day i have researched the components I will need for my proye
   
 **All this components will be uploades in the /electronic file**
 **The volume measures and mass from each component will be noted in the /mechanics file where I will describe the start of the whole AV first design**
+
+## 03/10/2026 Advances and next steps
+The last week I have been working on the main CAD design and I have completed my first design of the AV, it will be a small car which main purpose is to make the software work and work with it until the interface is 100% functional and works on campus, I have also uploaded new things on both the mechanical and electronics carpets, from the designs downloaded from the component, to the parameters, weights and other imporant considerations for choosing the motors and the system.
+Summary:
+* Updated the mechanical implications on the mechanical/ and the specifications of the componenets on the electrical/
+* Completed the first CAD of the AV, ready for 3D printing.
+Next Steps:
+* Due to the fact that I currently do not have the main components or the motors, I will start working on the interface that will be reading the environment and the program that will be uploaded to the microcontroller and the Jetson Orin.
+* Upload the remaining files and calculations on the mechanical and electrical parts, on the mechanical side,, the first CAD with the components, on the electrical, the order of the components, how will they be connected.
